@@ -36,6 +36,14 @@ This is interesting, because it turns out that most of the participants that hav
 
 Graduates hold the most for being having relevant experience regarding the field. 
 
+<img src='/Visualizations/com size vs rel exp.png'>
+
+As for the trend among candidates with relevant experience, it can be seen in the graph above that, most of those with relevant experience, comes from small companies, which only have 50 - 99 employees.
+
+<img src='/Visualizations/com size vs com type.png'>
+
+And, most of them, come from a private limited company.
+
 <img src='/Visualizations/enrollment courses vs ed level.png'>
 
 Where, most of them, when applying for jobs and training in this company, is not taking other courses from some university. Therefore, they can be focused on the training the company provided.
@@ -56,3 +64,6 @@ Where the experience they have varies, but those who have the most work experien
 
 Surprisingly, most of the workers, only have a 1-year difference between their previous job and current job.
 
+## __Conclusions__
+
+These visualizations are just a preliminary action, before we're going to take a deeper understanding of the data, there's still a lot of room for improvement. Because there are some of the questions that need further investigation. Such as the reason behind their participation in the training session, even though they have more than 20 years of experience.
