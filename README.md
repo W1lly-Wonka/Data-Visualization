@@ -12,7 +12,7 @@ A company which is active in Big Data and Data Science wants to hire data scient
 
 ## __Objective__
 
-Find any patterns related to the dataset, preferably for business purposes.
+Find any patterns related to the dataset, preferably for business purposes. Dataset was taken from [Kaggle](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
 
 ## __Findings and Discussions__
 
