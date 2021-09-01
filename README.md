@@ -39,3 +39,20 @@ Graduates hold the most for being having relevant experience regarding the field
 <img src='/Visualizations/enrollment courses vs ed level.png'>
 
 Where, most of them, when applying for jobs and training in this company, is not taking other courses from some university. Therefore, they can be focused on the training the company provided.
+
+<img src='/Visualizations/ed level vs training hours.png'>
+
+However, in terms of the number of hours of training completed, there was almost no significant difference among all levels of education. Where the number of hours ranges from 60 - 70 hours
+
+<img src='/Visualizations/major dis vs ed level.png'>
+
+Most graduates and masters, come from STEM. This is in line with the needs of the company that engaged in data science.
+
+<img src='/Visualizations/major dis vs exp.png'>
+
+Where the experience they have varies, but those who have the most work experience come from STEM.
+
+<img src='/Visualizations/Last new job vs Major dis.png'>
+
+Surprisingly, most of the workers, only have a 1-year difference between their previous job and current job.
+
